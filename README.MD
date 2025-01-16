@@ -43,6 +43,8 @@ Run:
 
 ## Notes
 
+- The `size` parameter determines the structural grid of the building. For example, a size of `3` means there will be 4 pillars (columns) spanning from one wall to the opposite wall.
+
 - If any required arguments are missing, the program will display the following error message:
 
 ```
